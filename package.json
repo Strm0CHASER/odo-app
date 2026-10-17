@@ -1,0 +1,11 @@
+{
+  "name": "odo-app",
+  "version": "1.0.0",
+  "description": "Odo: mileage and fuel tracker, wrapped as an Android app",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/core": "^6.2.0"
+  }
+}
